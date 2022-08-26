@@ -1,0 +1,36 @@
+{
+    "books": [
+        {
+			"tenSach": "DR. STONE - TẬP 20",
+            "tacGia": "Riichiro Inagaki, Boichi",
+            "NXB": "Kim Đồng",
+            "gia": "22,500",
+            "mota": "Senku và Dr. Xeno, hai nhà khoa học mạnh nhất thế giới đá đã hợp tác để xác định nguồn phát sinh của sự kiện hóa đá nhân loại!! Tránh khỏi nanh vuốt của Stanley, kẻ đang ráo riết truy đuổi khắp đại dương và lục địa Nam Mĩ, họ sẽ đến gần với bí mật của “khởi đầu”!!",
+            "linkAvatar": "https://product.hstatic.net/200000343865/product/20_8f4f3e7a587045409179dd3816936ac9_large.jpg"
+		},
+        {
+			"tenSach": "CONAN - TẬP 29",
+            "tacGia": "Gosho Aoyama",
+            "NXB": "Kim Đồng",
+            "gia": "18,000",
+            "mota": "Nghe Hattori rủ, Conan tới Osaka... Lí do chính là vì cầu thủ bóng đã yêu thích của cậu - Ray Curtis sẽ có mặt ở đó!! Tuy nhiên, án mạng diễn ra ở khách sạn nơi Ray ở?! Lại một vụ án có kết thúc buồn...",
+            "linkAvatar": "https://product.hstatic.net/200000343865/product/29_752726e6bd184b24bfb2723e90934ce4_large.jpg"
+		},
+        {
+			"tenSach": "ONG BÉO VÀ ONG GẦY",
+            "tacGia": "Uông Triều",
+            "NXB": "Kim Đồng",
+            "gia": "27,000",
+            "mota": "Tôi viết cuốn sách này để tặng con gái tôi và những ai yêu thiên nhiên, yêu những sinh vật nhỏ bé và cuộc sống tự do của cỏ cây, bầu trời...” - Uông Triều",
+            "linkAvatar": "https://product.hstatic.net/200000343865/product/ong-beo-ong-gay_68bcbb3b9cbf486ea9935d5461c8ffdf_large.jpg"
+		},
+        {
+			"tenSach": "KHÔNG GIA ĐÌNH",
+            "tacGia": "Hector Malot",
+            "NXB": "Kim Đồng",
+            "gia": "135,000",
+            "mota": "KHÔNG GIA ĐÌNH kể chuyện về cuộc đời của cậu bé Rémi. Từ nhỏ, Rémi đã bị bắt cóc, rồi bị bố nuôi bán cho một đoàn xiếc thú. Em đã theo đoàn xiếc ấy đi lưu lạc khắp nước Pháp.Rémi đã lớn lên trong gian khổ và lao động để sống. Lúc đầu em được sự dạy bảo của cụ Vitalis, về sau thì tự lập. Không những lo cho mình, em còn lo việc biểu diễn và kiếm sống cho cả một gánh hát rong… Nhưng dù ở đâu, trong cảnh ngộ nào, em vẫn noi theo nếp rèn dạy của cụ Vitalis giữ phẩm chất làm người. Đó là lòng yêu lao động, tự trọng, ngay thẳng, biết nhớ ơn nghĩa và luôn luôn muốn làm người có ích.",
+            "linkAvatar": "https://product.hstatic.net/200000343865/product/khong-gia-dinh---tb-2022_18f72e913be14c40bb6e0069792f39f3_large.jpg"
+		}
+	]
+}
