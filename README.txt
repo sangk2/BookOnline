@@ -1,3 +1,6 @@
+BookOnline sử dụng Web Service bằng PHP và MYSQL
+Parse Json sử dụng thư viện Retrofit.
+------------------------
 Trước khi run ứng dụng
 I. Thiết lập server
 	1. Mở thư muc server trong BookOnline
